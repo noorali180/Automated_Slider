@@ -43,4 +43,4 @@ const init = function(){
 }
 init();
 
-setInterval(() => nextSlide(), 2000);
+setInterval(() => nextSlide(), 5000);
